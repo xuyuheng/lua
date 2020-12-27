@@ -1,0 +1,6 @@
+framework module Pods_lua_Example {
+  umbrella header "Pods-lua_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

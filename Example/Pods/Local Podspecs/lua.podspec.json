@@ -1,0 +1,22 @@
+{
+  "name": "lua",
+  "version": "0.1.0",
+  "summary": "A short description of lua.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/xuyuheng/lua",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "xuyuheng": "yuheng0905@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/xuyuheng/lua.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "lua/Classes/**/*"
+}

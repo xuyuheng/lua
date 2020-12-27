@@ -1,0 +1,6 @@
+framework module lua {
+  umbrella header "lua-umbrella.h"
+
+  export *
+  module * { export * }
+}
